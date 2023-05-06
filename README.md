@@ -9,4 +9,6 @@ Resources: Python, SQL, Tableau
 
 Planning: https://trello.com/b/wxF4za00/mid-bootcamp-project-build-a-machine-learning-model-to-predict-the-selling-prices-of-houses
 
+Tableau Dashboard: https://public.tableau.com/app/profile/sandra.cunha/viz/MIDPROJECT_V2/10_DASHBOARD
+
 Group: André, Jordi, Sandra
