@@ -1,4 +1,4 @@
-# Predicting Real Estate selling Prices in King County
+# Predicting Real Estate Selling Prices in King County
 
 
 This is a project developed during IRONHACK Data Analytics Bootcamp, with the aim to build a Machine Learning Regression Model to predict the housing prices in King County, Washington State.
