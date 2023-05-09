@@ -5,15 +5,15 @@ This is a project developed during Ironhack Data Analytics Bootcamp, with the ai
 
 Also a dashboard was developed to present to the Senior management of the Real Estate Company to explore the characteristics of the houses and to provide some valuable insights.
 
-Resources: Python, SQL, Tableau
+*Resources*: Python, SQL, Tableau
 
-Planning: https://trello.com/b/wxF4za00/mid-bootcamp-project-build-a-machine-learning-model-to-predict-the-selling-prices-of-houses
+*Planning*: https://trello.com/b/wxF4za00/mid-bootcamp-project-build-a-machine-learning-model-to-predict-the-selling-prices-of-houses
 
-Tableau Dashboard: https://public.tableau.com/app/profile/sandra.cunha/viz/MIDPROJECT_V2/10_DASHBOARD
+*Tableau Dashboard*: https://public.tableau.com/app/profile/sandra.cunha/viz/MIDPROJECT_V2/10_DASHBOARD
 
-Group: André, Jordi, Sandra
+*Group*: André, Jordi, Sandra
 
-Dataset: Information about 22,000 properties. The dataset consists of historic data of houses sold between May 2014 to May 2015.
+*Dataset*: Information about 22,000 properties. The dataset consists of historic data of houses sold between May 2014 to May 2015.
 
 id :a notation for a house
 
